@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello
+title: Hello!
 subtitle: My name is Bikram
 sitemap:
   priority: 0.9
