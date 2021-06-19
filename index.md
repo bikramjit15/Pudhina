@@ -5,7 +5,7 @@ subtitle: My name is Bikram
 sitemap:
   priority: 0.9
 ---
-assets/img/pride.jpeg
+
 <img src="{{ 'assets/img/pride.jpeg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
