@@ -6,10 +6,10 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://bikramjit15.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: "Bikramjit Karmakar"
+  github: "https://github.com/bikramjit15/"
+  linkedin: "https://www.linkedin.com/in/bikramjitkarmakar/"
+  email: "bikramjitkarmakar1@gmail.com"
 
 
 # Syntax highlighting
