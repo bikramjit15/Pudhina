@@ -3,11 +3,11 @@ title: Bikramjit Karmakar
 description: >
   My website thing
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://bikramjit15.github.io" # the base hostname & protocol for your site
+url: "https://bikramjitkarmakar.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: "Bikramjit Karmakar"
-  github: "bikramjit15/"
+  github: "bikramjitkarmakar/"
   linkedin: "bikramjitkarmakar/"
   email: "bikramjitkarmakar1@gmail.com"
 
