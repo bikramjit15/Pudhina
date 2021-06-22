@@ -38,7 +38,7 @@ implemented a breathing profile model for oxygen systems.
 
 # Key Competencies
 
-- **Physics based Modelling** and **Multi-scale Modelling**
+- **Physics based Modelling** , **Multi-scale Modelling** and **Numerical Techniques**
 - **Machine Learning** , **Deep Learning** and **Computer Vision**
 - **Systems Engineering** and **High-Performance Computing**
 
