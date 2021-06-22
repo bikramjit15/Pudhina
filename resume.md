@@ -10,7 +10,7 @@ subtitle:
 
 # Experience
 
-   - **[Raytheon Technologies](https://rtx.com)** <span style="float: right; ">July 2020 – Present</span>  
+**[Raytheon Technologies](https://rtx.com)** <span style="float: right; ">July 2020 – Present</span>  
     *Margaret Ingles Engineering Development Program Associate* <span style="float: right; ">Bengaluru, India</span>
     
 **Margaret Ingels Engineering Development Program (MIEDP)** is an
