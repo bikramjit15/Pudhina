@@ -107,7 +107,7 @@ implemented a breathing profile model for oxygen systems.
 
 - **Advisor:** Dr. Abhik Choudhury <span style="float: right; "> **Grade:** 8/8
 - Worked on the methods and changes needed to **incorporate the dynamics of rapid
-    solidification** in Phase Field Models </span>
+    solidification** in Phase Field Models 
   
 **Masters’s Thesis:** Analytical and Computational modelling of
     Microstructures during Rapid Solidification (non-equilibrium phase
@@ -116,7 +116,7 @@ implemented a breathing profile model for oxygen systems.
 - Worked on simulating complex microstructures like dendrites during non
     equilibrium phase transformation. Developed **parallelized adaptive
     mesh solvers** for phase-field on OpenFOAM giving upto **15x
-    speedup.**</span>
+    speedup.**
 
 # Awards/ Recognitions
 
