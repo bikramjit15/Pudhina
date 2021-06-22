@@ -17,9 +17,6 @@ I do also enjoy reading non-quantitative fields like science policy, public poli
 Other than academic and professional stuff, I enjoy spending time doing a variety of things like making this website. 
 I enjoy cycling (cycled from Germany to France!), running and in general promoting good nutrition. 
 I also enjoy travelling (have been to 11 countries!) and hope to hit my 100 country goal before I hit 40. 
-My friends tell me I cook well too (or maybe they just enjoy free food) 
-
-I also abhor the 'chalta hai' / 'jo hoga dekha jayega' or similar attitude. 
-This prevents us to take action and remedy the situation.
+My friends tell me I cook well too (or maybe they just enjoy free food)
 
 Lastly, I can't deny a cup of good masala chai(no sugar!) and some 'charcha' to go with it.
