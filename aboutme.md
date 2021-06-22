@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: An awesome person
+subtitle: An awesome person, kinda
 ---
 
 
