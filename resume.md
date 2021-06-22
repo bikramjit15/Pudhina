@@ -63,27 +63,26 @@ implemented a breathing profile model for oxygen systems.
 
 # Internship positions
 **Karlsruhe Institute of Technology**  <span style="float: right; "> Karlsruhe, Germany</span>  
-
-<span style="float: right; ">Aug. 2015 – July 2020</span>
+    *Summer Research Intern*<span style="float: right; ">May 2018 – July 2018</span>
 - *[With Prof. Britta Nester’s Group on Phase field modelling of solute trapping](https://www.iam.kit.edu/cms/english/Mitarbeiter_nestler.php)* 
 
-**Dept. of MSE, IIT Kanpur**  <span style="float: right; "> Kanpur, India </span>
-
-<span style="float: right; ">Aug. 2015 – July 2020</span>
+**Dept. of MSE, IIT Kanpur**  <span style="float: right; "> Kanpur, India</span>  
+    *Summer Research Intern*<span style="float: right; ">June 2017 – July 2017</span>
 - *[With Prof. Rajdip Mukherjee’s Group on Effect of Grain Boundary Mobility on Grain Growth](http://home.iitk.ac.in/~rajdipm/projects.php)* 
 
 **Centre for Data Sciences(CDS), IISc**  <span style="float: right; "> Bengaluru,India</span>  
-- *[With Prof. K Sekar’s Group on Mathematical Model to predict 3-D structural overlap of multiple protein](http://cds.iisc.ac.in/faculty/sekar/index.html)* <span style="float: right; ">*June-July 2016*</span>
+    *Summer Research Intern*<span style="float: right; ">June 2016 – July 2016</span>
+- *[With Prof. K Sekar’s Group on Mathematical Model to predict 3-D structural overlap of multiple protein](http://cds.iisc.ac.in/faculty/sekar/index.html)*
 
     
 
 # Skills
 
-  - <span> **Programming Languages**<span>: C, C++, Python</span>
+  - <span> **Programming Languages**<span>: C, C++, Python</span> <span style="float: right; ">
     **Technologies**<span>: Octave, Matlab, Simscape & Simulink</span>
     </span>
 
-  - <span> **Scripting**<span>: Shell, Perl</span>
+  - <span> **Scripting**<span>: Shell, Perl</span> <span style="float: right; ">
     **Visualization/Plotting**<span>: OriginLab, SciDavis, GnuPlot,
     ParaView</span> </span>
 
@@ -95,27 +94,26 @@ implemented a breathing profile model for oxygen systems.
 
   - <span>**Python Libraries:**</span>
     
-      - **Basics**<span>: NumPy, SciPy, Pandas, Matplotlib etc.</span>
+      - **Basics**<span>: NumPy, SciPy, Pandas, Matplotlib etc.</span><span style="float: right; ">
         **Computer Vision**<span>: OpenCV2, PIL, imutils</span>
     
       - <span> **Machine Learning**<span>: scikit-learn,
-        statsmodels</span> **Deep Learning Frameworks**<span>:
+        statsmodels</span><span style="float: right; "> **Deep Learning Frameworks**<span>:
         Tensorflow, Keras</span> </span>
 
 # Thesis
 
-  - **Bachelor’s Thesis:** Compuational modelling of Rapid
-    Solidification (non-equilibrium phase transformation) using Phase
-    Field **  
-    Advisor:** Dr. Abhik Choudhury **Grade:** 8/8 <span>Worked on the
-    methods and changes needed to **incorporate the dynamics of rapid
-    solidification** in Phase Field Models </span>
+**Bachelor’s Thesis:** Compuational modelling of Rapid Solidification (non-equilibrium phase transformation) using Phase Field 
 
-  - **Masters’s Thesis:** Analytical and Computational modelling of
+- **Advisor:** Dr. Abhik Choudhury <span style="float: right; "> **Grade:** 8/8
+- Worked on the methods and changes needed to **incorporate the dynamics of rapid
+    solidification** in Phase Field Models </span>
+  
+**Masters’s Thesis:** Analytical and Computational modelling of
     Microstructures during Rapid Solidification (non-equilibrium phase
-    transformation) using Phase Field **  
-    Advisor:** Dr. Abhik Choudhury **Grade:** 8/8 <span>Worked on
-    simulating complex microstructures like dendrites during non
+    transformation) using Phase Field 
+-  **Advisor:** Dr. Abhik Choudhury <span style="float: right; ">**Grade:** 8/8 <span>
+- Worked on simulating complex microstructures like dendrites during non
     equilibrium phase transformation. Developed **parallelized adaptive
     mesh solvers** for phase-field on OpenFOAM giving upto **15x
     speedup.**</span>
@@ -159,52 +157,3 @@ implemented a breathing profile model for oxygen systems.
 
   - **Various other volunteering activities:** <span>Student Council,
     Symposiums, Open Day, Notebook drive, etc.</span>
-
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
-
-### EDUCATION
-
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
- 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
-
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
-
-### EXPERIENCE
-
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
- 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
-
-### RECOGNITION & INTERESTS
-
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
