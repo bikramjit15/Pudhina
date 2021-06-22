@@ -10,83 +10,71 @@ subtitle:
 
 # Experience
 
-**[Raytheon Technologies](https://rtx.com)** <span style="float: right; ">July 2020 – Present</span>  
-    *Margaret Ingles Engineering Development Program Associate* <span style="float: right; ">Bengaluru, India</span>
+**[Raytheon Technologies](https://rtx.com)** <span style="float: right; ">Bengaluru, India</span>  
+    *Margaret Ingles Engineering Development Program Associate* <span style="float: right; ">July 2020 – Present</span>
     
 **Margaret Ingels Engineering Development Program (MIEDP)** is an
     entry-level, two-year leadership development program for engineering
     students from around the world that cycles engineers through four,
     six-month rotations across the enterprise
 
-**Rotation 2 -Systems Engineering, Collins Aerospace (Feb’21 -
+- **Rotation 2 -Systems Engineering, Collins Aerospace (Feb’21 -
     ongoing) :** Developed and implemented a novel, scalable and
     extremely accurate methodology for remaining useful life prediction
     and true damage estimation for Model Based Prognostics. Successfully
     demonstrated the use on component level.  
 
-<span>Tags: </span>**Kalman Filters; Statespace Models; Time
+    <span>Tags: </span>**Kalman Filters; Statespace Models; Time
     Series**
 
-**Rotation 1 - Interiors Technology, Collins Aerospace (Jul’20 -
-    Feb’21) :** Developed a 2D DIC module to accurately quantify
-    fabric deformations and to be fed into a FE model using images.
-    Designed and performed experiments and completed preliminary
-    validation of that advanced FE model for fabric composite. Developed a phase-field based Phase Change Heat Exchanger model and
-    implemented a breathing profile model for oxygen systems.
+- **Rotation 1 - Interiors Technology, Collins Aerospace (Jul’20 -
+    Feb’21) :** Developed a image-processing
+module to accurately quantify 2D strains from image batch for fabric composite modelling. Designed and performed
+experiments for model’s verification and validation. Developed a Phase Change Heat Exchanger model and
+implemented a breathing profile model for oxygen systems.
 
-<span>Tags: </span>**Computer Vison (OpenCV, PIL, imutils);
+    <span>Tags: </span>**Computer Vison (OpenCV, PIL, imutils);
     Phase-Field**
 
 # Key Competencies
 
-<span>3</span>
+- **Physics based Modelling** and **Multi-scale Modelling**
+- **Machine Learning** , **Deep Learning** and **Computer Vision**
+- **Systems Engineering** and **High-Performance Computing**
 
-**Physics based Modelling** | **Multi-scale Modelling** | **Material Characterization**
 
-**Machine Learning** | **Deep Learning** |**Computer Vision**
 
-**Systems Engineering** | **High-Performance Computing** | **Optimization**
+
+
+
+
+
 
 # Education
+**Indian Institute of Science (IISc)** <span style="float: right; ">Bengaluru, India</span>  
+    *Class of 2020* <span style="float: right; ">Aug. 2015 – July 2020</span>
+  
 
-  - 
-    
-    |                                        |                         |
-    | :------------------------------------- | ----------------------: |
-    | **Indian Institute of Science (IISc)** |        Bengaluru, India |
-    | *Class of 2020*                        | *Aug. 2015 – July 2020* |
-    
-
-      - **Bachelor of Science(Research) and Master of Science in
+- **Bachelor of Science(Research) and Master of Science in
         Materials Science**
     
-      - <span>CGPA(secured/maximum): 6.4/8, Masters’
-        GPA(secured/maximum): 7.6/8</span>
+- <span>CGPA(secured/maximum): 6.4/8, 
+        Masters’GPA(secured/maximum): 7.6/8</span>
 
 # Internship positions
+**Karlsruhe Institute of Technology**  <span style="float: right; "> Karlsruhe, Germany</span>  
 
-  - 
-    
-    |                                                                                                                                               |                    |
-    | :-------------------------------------------------------------------------------------------------------------------------------------------- | -----------------: |
-    | **Karlsruhe Institute of Technology**                                                                                                         | Karlsruhe, Germany |
-    | *[With Prof. Britta Nester’s Group on Phase field modelling of solute trapping](https://www.iam.kit.edu/cms/english/Mitarbeiter_nestler.php)* |    *May-July 2018* |
-    
+<span style="float: right; ">Aug. 2015 – July 2020</span>
+- *[With Prof. Britta Nester’s Group on Phase field modelling of solute trapping](https://www.iam.kit.edu/cms/english/Mitarbeiter_nestler.php)* 
 
-  - 
-    
-    |                                                                                                                                             |                  |
-    | :------------------------------------------------------------------------------------------------------------------------------------------ | ---------------: |
-    | **Dept. of MSE, IIT Kanpur**                                                                                                                |     Kanpur,India |
-    | *[With Prof. Rajdip Mukherjee’s Group on Effect of Grain Boundary Mobility on Grain Growth ](http://home.iitk.ac.in/~rajdipm/projects.php)* | *June-July 2017* |
-    
+**Dept. of MSE, IIT Kanpur**  <span style="float: right; "> Kanpur, India </span>
 
-  - 
-    
-    |                                                                                                                                                            |                  |
-    | :--------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------: |
-    | **Centre for Data Sciences(CDS), IISc**                                                                                                                    |  Bengaluru,India |
-    | *[With Prof. K Sekar’s Group on Mathematical Model to predict 3-D structural overlap of multiple protein](http://cds.iisc.ac.in/faculty/sekar/index.html)* | *June-July 2016* |
+<span style="float: right; ">Aug. 2015 – July 2020</span>
+- *[With Prof. Rajdip Mukherjee’s Group on Effect of Grain Boundary Mobility on Grain Growth](http://home.iitk.ac.in/~rajdipm/projects.php)* 
+
+**Centre for Data Sciences(CDS), IISc**  <span style="float: right; "> Bengaluru,India</span>  
+- *[With Prof. K Sekar’s Group on Mathematical Model to predict 3-D structural overlap of multiple protein](http://cds.iisc.ac.in/faculty/sekar/index.html)* <span style="float: right; ">*June-July 2016*</span>
+
     
 
 # Skills
