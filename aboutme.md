@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Looking for the right thing
+subtitle: I am good at making bad jokes and bad at making good jokes
 ---
 
 
