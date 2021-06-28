@@ -18,7 +18,9 @@ some looking over stack-exchange and some lecture notes from unknown professors
 policy, public policy & science communication.
 
 Other than academic and professional things, 
-I enjoy doing a variety of things like making this website. I enjoy cycling (cycled from Germany to France!), running, and promoting good nutrition. I also love traveling (have been to 11 countries!) and hope to hit my 100 country goal before I hit 40. My friends tell me I cook well too (or maybe they just enjoy free food)
+I enjoy doing a variety of things like making this website. I enjoy cycling 
+(cycled from Germany to France!), running, and promoting good nutrition and  personal finance.
+I also love traveling (have been to 11 countries!) and hope to hit my 100 country goal before I hit 40. My friends tell me I cook well too (or maybe they just enjoy free food)
 
 Lastly, I can't deny a cup of perfect masala chai(no sugar!) 
 and some 'charcha' to go with it.
