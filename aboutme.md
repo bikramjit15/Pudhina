@@ -12,7 +12,6 @@ Global Engineering Leadership Development program.
 I graduated from the Indian Institute of Science (IISc) Bangalore with a BS & MS in Material Sciences in 2020.
 
 Like me, my interests change (or mature). 
-While it's too early for me to have concentrated academic or professional interests, 
 but I enjoy problems that require a little math, 
 some looking over stack-exchange and some lecture notes from unknown professors 
 (thank you, internet!). I do also enjoy reading non-quantitative fields like science 
