@@ -7,7 +7,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pride.jpeg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/pic2.png' | prepend: site.baseurl }}" id="about-img">
 <div id="describe-text">
 	<p>And this is my website thing</p>
 	<p>Feel free to look at my resume to check what I am currently doing,<p>
